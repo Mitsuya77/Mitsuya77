@@ -24,6 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mitsuya-red?style=for-the-badge&logo=LINKEDIN&logoColor=red)](https://www.linkedin.com/in/william-mouchon/)
 [![Email](https://img.shields.io/badge/Email-Mitsuya-red?style=for-the-badge&logo=GMAIL&logoColor=red)](mailto:william.mouchon@edu.devinci.fr)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](discord:Luffy77#9398)
 
 
 
