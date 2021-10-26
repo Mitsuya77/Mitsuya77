@@ -10,7 +10,7 @@
 ![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=PYTHON)
-![MYSQL](https://img.shields.io/badge/MYSQL-blacck?style=for-the-badge&logo=MYSQL)
+![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL)
 
 ![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT)
 
