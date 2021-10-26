@@ -1,6 +1,6 @@
 ![Worry](img/tokyo-revengers.gif)
 # Who I am ?
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=750&height=85&lines=a+fun+loving+developer+who+watches%2C;+a+lot+a+lot+of+anime.+student+at+iim+in+france+will+return+the+devolepement+with+his+company.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70202&size=30&center=vrai&vCenter=faux&multiline=true&width=760&height=125&lines=a+fun+loving+developer+who+watches%2C;a+lot+a+lot+of+anime.+student+at+iim+in+france%2C;will+return+the+devolepement+with+his+company)](https://git.io/typing-svg)
 
 ## :speaker: Language and technology that I know :computer:
 
