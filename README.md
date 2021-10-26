@@ -2,7 +2,7 @@
 # Who I am ?
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70202&size=30&center=vrai&vCenter=faux&multiline=true&width=760&height=125&lines=a+fun+loving+developer+who+watches%2C;a+lot+a+lot+of+anime.+student+at+iim+in+france%2C;will+return+the+devolepement+with+his+company)](https://git.io/typing-svg)
 
-## :speaker: Language and technology that I know :computer:
+## :speaker: Language that I know :computer:
 
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
