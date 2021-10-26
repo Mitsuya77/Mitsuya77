@@ -7,10 +7,11 @@
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
-![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)
+![JAVA](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=JAVA)
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=PYTHON)
 ![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL)
+![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=PHP)
 
 ![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT)
 
