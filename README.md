@@ -5,7 +5,7 @@
 ## 📁 Language that I know :computer:
 
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
 ![JAVA](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
