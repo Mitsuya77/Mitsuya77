@@ -19,7 +19,7 @@
 ![XD](https://img.shields.io/badge/ILLUSTRATOR-black?style=for-the-badge&logo=Adobe-ILLUSTRATOR)
 ![FIGMA](https://img.shields.io/badge/PHOTOSHOP-black?style=for-the-badge&logo=Adobe-PHOTOSHOP)
 
-## :iphone: The fastest way to contact me :mailbox:
+## :iphone: Contact me :mailbox:
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mitsuya-red?style=for-the-badge&logo=LINKEDIN&logoColor=red)](https://www.linkedin.com/in/william-mouchon/)
 [![Email](https://img.shields.io/badge/Email-Mitsuya-red?style=for-the-badge&logo=GMAIL&logoColor=red)](mailto:william.mouchon@edu.devinci.fr)
