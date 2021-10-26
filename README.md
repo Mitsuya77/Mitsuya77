@@ -17,7 +17,7 @@
 ![GIT](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=GIT)
 
 ![ILLUSTRATOR](https://img.shields.io/badge/FIGMA-orange?style=for-the-badge&logo=FIGMA)
-![PHOTOSHOP](https://img.shields.io/badge/XD-black?style=for-the-badge&logo=Adobe-XD)
+![PHOTOSHOP](https://img.shields.io/badge/XD-pink?style=for-the-badge&logo=Adobe-XD)
 ![XD](https://img.shields.io/badge/ILLUSTRATOR-black?style=for-the-badge&logo=Adobe-ILLUSTRATOR)
 ![FIGMA](https://img.shields.io/badge/PHOTOSHOP-black?style=for-the-badge&logo=Adobe-PHOTOSHOP)
 
