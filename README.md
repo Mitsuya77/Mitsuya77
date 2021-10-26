@@ -7,7 +7,8 @@
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS)
-![JAVA](https://img.shields.io/badge/JAVA-black?style=for-the-badge&logo=JAVA)
+![JAVA](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-black?style=for-the-badge&logo=PYTHON)
 ![MYSQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge&logo=MYSQL)
