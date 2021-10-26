@@ -1,8 +1,8 @@
 ![Worry](img/tokyo-revengers.gif)
-# Who I am ?
+# :japanese_ogre:Who I am ?
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70202&size=30&center=vrai&vCenter=faux&multiline=true&width=760&height=125&lines=a+fun+loving+developer+who+watches%2C;a+lot+a+lot+of+anime.+student+at+iim+in+france%2C;will+return+the+devolepement+with+his+company)](https://git.io/typing-svg)
 
-## :speaker: Language that I know :computer:
+## 📁: Language that I know :computer:
 
 ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)
 ![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)
@@ -19,7 +19,7 @@
 ![XD](https://img.shields.io/badge/ILLUSTRATOR-black?style=for-the-badge&logo=Adobe-ILLUSTRATOR)
 ![FIGMA](https://img.shields.io/badge/PHOTOSHOP-black?style=for-the-badge&logo=Adobe-PHOTOSHOP)
 
-## :iphone: Contact me :mailbox:
+## :iphone: Contact me 📧
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Mitsuya-red?style=for-the-badge&logo=LINKEDIN&logoColor=red)](https://www.linkedin.com/in/william-mouchon/)
 [![Email](https://img.shields.io/badge/Email-Mitsuya-red?style=for-the-badge&logo=GMAIL&logoColor=red)](mailto:william.mouchon@edu.devinci.fr)
